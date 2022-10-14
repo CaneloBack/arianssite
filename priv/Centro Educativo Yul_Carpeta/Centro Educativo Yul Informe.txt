@@ -1,0 +1,45 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: Centro Educativo Yul.ai
+Modo de color: Color RGB
+Perfil de color: ninguno
+Unidades de regla: centímetros
+Dimensiones de la mesa de trabajo: 50.3109 cm x 30 cm
+Mostrar imágenes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edición de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Bebas Neue Bold (OTF)
+Cocogoose Light (TrueType)
+COCOGOOSE DemiBold (TrueType)
+Montserrat Regular (TrueType)
+Montserrat SemiBold (TrueType)
+Montserrat Medium (TrueType)
+Montserrat Black (TrueType)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Imágenes enlazadas:
+Ninguno
